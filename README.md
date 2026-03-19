@@ -225,3 +225,9 @@ static-blog-dev/
 2. `categoryId` must match the category `id` in `settings.json`
 3. Images are recommended to use CDN links, avoid putting large images in the repository
 4. Publication time format: `YYYY-MM-DDTHH:mm:ss.sssZ`
+
+## Treat me to a bowl of lamian
+
+| 微信（wechat） | <img src="https://github.com/user-attachments/assets/29c0f96f-4d85-4f99-9dee-23cde279fdd1" alt="mm_reward_qrcode_1772603144418" style="zoom: 33%;" /> |
+| -------------- | ------------------------------------------------------------ |
+
