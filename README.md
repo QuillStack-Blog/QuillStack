@@ -1,5 +1,5 @@
 
-<img src="https://socialify.git.ci/QuillStack-Blog/QuillStack/image?custom_language=Next.js&description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Frepository-images.githubusercontent.com%2F1170537249%2Fef56bd08-6f8f-4112-a075-ebb06c73566b&name=1&owner=1&pattern=Floating+Cogs&pulls=1&stargazers=1&theme=Auto" alt="QuillStack" width="640" height="320" />
+<img src="https://socialify.git.ci/QuillStack-Blog/QuillStack/image?custom_language=Next.js&description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Frepository-images.githubusercontent.com%2F1170537249%2Fef56bd08-6f8f-4112-a075-ebb06c73566b&name=1&owner=1&pattern=Floating+Cogs&pulls=1&stargazers=1&theme=Auto" alt="QuillStack" width="2740" height="420" />
 
 👋👋🏻👋🏼👋🏽👋🏾👋🏿
 
